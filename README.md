@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Alattar</h1>
 <h3 align="center">A passionate Back-end developer from Palestine</h3>
 
+- 🔭 I’m currently working on **Asp.net core 5**
+
 - 🌱 I’m currently learning **Asp.net core with Angular**
 
 - 💬 Ask me about **Java,C,Flutter**
